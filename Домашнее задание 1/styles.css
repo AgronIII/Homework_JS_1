@@ -1,0 +1,23 @@
+#btn1, #btn2, #btn3{
+    padding: 25px 25px;
+    background-color: saddlebrown;
+    color: snow;
+    text-decoration: none;
+}
+
+#light{
+    display: flex;
+    height: 100vh;
+    background-color: blue;
+    justify-content: space-around;
+}
+
+#clmn{
+    background-color: yellowgreen;
+    color: snow;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 400px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
